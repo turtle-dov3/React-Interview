@@ -1,7 +1,9 @@
 # React Techincal Interview
 Directions:
 
-Solve the two issues listed on github
+Solve the two issues listed on github.
+
+Start with 1 and then go to 2
 
 
 ## Available Scripts
